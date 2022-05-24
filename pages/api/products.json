@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Rando crap pack #1",
+    "price": "0.09",
+    "description": "Get this random pack of jpegs for only $0.09! Includes 3 random jpegs!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "random.zip",
+    "hash": "QmZJqT2aexmXjXrbf5XjV8LspLbi7GtCHQyaeUgbgvR7CS"
+  },
+  {
+    "id": 2,
+    "name": "Rando crap pack #2",
+    "price": "0.09",
+    "description": "Get this random pack of jpegs for only $0.09! Includes 3 random jpegs!",
+    "image_url": "https://i.imgur.com/BTH9QW9.png",
+    "filename": "random2.zip",
+    "hash": "QmYUpAStfD39y2DAJ8Qz2bqHpG23ypjViAVg9gxU6fJvCu"
+  },
+  {
+    "id": 3,
+    "name": "Discounted randos",
+    "price": "0.02",
+    "image_url": "https://i.imgur.com/rqXfLY9.gif",
+    "description": "Deeply discounted random jpegs!"
+  }
+]
